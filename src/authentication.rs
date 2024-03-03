@@ -8,6 +8,7 @@ pub mod dynamic_client_registration;
 pub mod get_token;
 pub mod login;
 pub mod logout;
+pub mod management;
 pub mod mfa;
 pub mod passwordless;
 pub mod revoke_refresh_token;
